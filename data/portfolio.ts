@@ -56,12 +56,13 @@ export interface EducationItem {
 }
 
 export const heroData = {
-  name: "Naren Sundar L",
+  name: "Naren Sundar",
   titles: [
-    "AI Engineer",
+    "AI/ML Engineer",
     "Full Stack Developer",
-    "ML Research Enthusiast",
-    "Systems Builder"
+    "Thinker",
+    "Doer",
+    "Learner"
   ],
   bio: "Building intelligent systems at the intersection of AI and software engineering. Passionate about solving complex problems through innovative technology.",
   cta: {
@@ -101,13 +102,12 @@ export const aboutData = {
     "Full Stack Development",
     "Systems Architecture",
     "Cloud Infrastructure",
-    "Open Source Contributions"
   ],
   highlights: [
     "AI/ML Model Development",
     "Full Stack Web Applications",
-    "Real-time Systems",
-    "Distributed Computing"
+    "RAG Systems",
+    "Agentic AI"
   ]
 };
 
@@ -219,9 +219,9 @@ export const experienceData: Experience[] = [
     position: "Web Developer",
     organization: "Intel IoT Club",
     duration: "2024 - 2025",
-    description: "Building and Maintain Club Website and Project Deveopment.",
+    description: "Building and Maintaining Club Website and Project Deveopment.",
     achievements: [
-      "Organized 5+ workshops and hackathons",
+      "Participated in 5+ hackathons and workshops",
       "Built club website and event management system"
     ]
   }
